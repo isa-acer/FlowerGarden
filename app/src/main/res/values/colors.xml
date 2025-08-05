@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yesil_koyu">#2E7D32</color>        <!-- Koyu yeşil -->
+    <color name="yesil_orta">#4CAF50</color>        <!-- Orta yeşil -->
+    <color name="yesil_acik">#81C784</color>        <!-- Açık yeşil -->
+    <color name="yesil_cok_acik">#C8E6C9</color>    <!-- Çok açık yeşil -->
+
+    <!-- Doğa Tonları -->
+    <color name="toprak_rengi">#8D6E63</color>      <!-- Toprak rengi -->
+    <color name="dal_rengi">#5D4037</color>         <!-- Dal rengi -->
+
+    <!-- Çiçek Renkleri (Aksan için) -->
+    <color name="pembe_cicek">#E91E63</color>       <!-- Pembe çiçek -->
+    <color name="sari_cicek">#FFC107</color>        <!-- Sarı çiçek -->
+    <color name="mor_cicek">#9C27B0</color>         <!-- Mor çiçek -->
+
+    <!-- Arka Plan Renkleri -->
+    <color name="beyaz_krem">#FAFAFA</color>        <!-- Beyaz krem -->
+    <color name="acik_gri">#F5F5F5</color>          <!-- Açık gri -->
+
+    <!-- Metin Renkleri -->
+    <color name="koyu_yesil_metin">#1B5E20</color>  <!-- Koyu yeşil metin -->
+    <color name="orta_gri_metin">#616161</color>    <!-- Orta gri metin -->
+    <color name="koyu_siyah">#212121</color>        <!-- Koyu siyah (açıklamalar için) -->
+    <!-- Gradient için -->
+    <color name="gradient_baslangic">#66BB6A</color> <!-- Gradient başlangıç -->
+    <color name="gradient_bitis">#A5D6A7</color>     <!-- Gradient bitiş -->
+</resources>
