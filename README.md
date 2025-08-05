@@ -1,5 +1,8 @@
 🌸 Çiçek Bahçesi Yönetim Uygulaması
 Kotlin ile geliştirilmiş çiçek bahçesi yönetim uygulaması. Room Database kullanarak CRUD (Create, Read, Update, Delete) işlemlerini öğrenmek için ideal bir proje.
+
+
+
 <img width="360" height="788" alt="image" src="https://github.com/user-attachments/assets/ecc35077-f908-496e-b40c-029a2d34f484" />
 <img width="396" height="798" alt="image" src="https://github.com/user-attachments/assets/b2f810f4-ee27-4ef8-a08c-682946e55772" />
 
